@@ -15,6 +15,7 @@ DEFINE_OPTION(FLB_IN_BLOB                     "Enable Blob input plugin"        
 DEFINE_OPTION(FLB_IN_CALYPTIA_FLEET           "Enable Calyptia Fleet input plugin"           ON)
 DEFINE_OPTION(FLB_IN_COLLECTD                 "Enable Collectd input plugin"                 ON)
 DEFINE_OPTION(FLB_IN_CPU                      "Enable CPU input plugin"                      ON)
+DEFINE_OPTION(FLB_IN_HELLO_WORLD              "Enable Hello World input plugin"              ON)
 DEFINE_OPTION(FLB_IN_DISK                     "Enable Disk input plugin"                     ON)
 DEFINE_OPTION(FLB_IN_DOCKER                   "Enable Docker input plugin"                   ON)
 DEFINE_OPTION(FLB_IN_DOCKER_EVENTS            "Enable Docker events input plugin"            ON)

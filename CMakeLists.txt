@@ -356,6 +356,7 @@ if(FLB_ALL)
 
   # Input plugins
   set(FLB_IN_CPU          1)
+  set(FLB_IN_HELLO_WORLD  1)
   set(FLB_IN_MEM          1)
   set(FLB_IN_KMSG         1)
   set(FLB_IN_MQTT         1)
